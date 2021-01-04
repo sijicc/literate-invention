@@ -3,7 +3,6 @@ import json
 import glob
 from natsort import natsorted
 from os import getcwd
-from pathlib import Path
 
 sg.theme('default')
 cwd = getcwd()
