@@ -15,4 +15,3 @@ If you have any suggestions feel free to write them, right now I am thinking abo
   -checking how much times specified word/sentence occured in ALL conversations, not only in one
   -checking how much time specified person used specified word/sentence
   -doing some graphs with mathplotlib
-
